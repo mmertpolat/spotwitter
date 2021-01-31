@@ -17,11 +17,11 @@ Shows your currently playing music on Spotify on your Twitter bio.
 - Setup cronjob for index.php for a minute
 ### Tech
 
-ezPass uses a number of modules to work properly:
+SpoTwitter uses a number of modules to work properly:
 
 * [PHP] - Programming language
 
-### Thanks
+### Libraries
 
 - TwitterOAuth Library
 - Spotify Web API Library
