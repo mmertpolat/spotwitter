@@ -2,9 +2,9 @@
 
 Shows your currently playing music on Spotify on your Twitter bio.
 
-![Image of SpoTwitter](https://i.hizliresim.com/T2XZDk.png)
-
   - Language: PHP
+
+![Image of SpoTwitter](https://i.hizliresim.com/T2XZDk.png)
 
 # Features
 
