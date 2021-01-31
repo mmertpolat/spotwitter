@@ -7,7 +7,7 @@ use Abraham\TwitterOAuth\TwitterOAuth;
 
 $spotifyClientId = ""; // get from developer.spotify.com
 $spotifyClientSecret = ""; // get from developer.spotify.com
-$spotifyRedirectUri = "http://localhost/spotwitter/index.php"; // get from developer.spotify.com
+$spotifyRedirectUri = "http://localhost/spotwitter/index.php"; // write your index.php url
 
 $twitterConsumer = ""; // get from developer.twitter.com, needs developer account
 $twitterConsumerSecret = ""; // get from developer.twitter.com, needs developer account
