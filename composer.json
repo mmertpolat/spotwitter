@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jwilsson/spotify-web-api-php": "^4.2",
+        "abraham/twitteroauth": "^2.0"
+    }
+}
