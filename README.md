@@ -21,15 +21,15 @@ SpoTwitter uses a number of modules to work properly:
 
 * [PHP] - Programming language
 
-### Libraries
-
-- TwitterOAuth Library
-- Spotify Web API Library
-
 ### Project Idea
 
 - Kağan Işıldak
 - https://twitter.com/kaganisildak/status/1349380886886838272
+
+### Libraries
+
+- TwitterOAuth Library
+- Spotify Web API Library
 
 License
 ----
