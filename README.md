@@ -28,7 +28,7 @@ SpoTwitter uses a number of modules to work properly:
 
 ### Project Idea
 
-- Kagan Isildak
+- Kağan Işıldak
 - https://twitter.com/kaganisildak/status/1349380886886838272
 
 License
