@@ -1,5 +1,7 @@
 # SpoTwitter
 
+SpoTwitter is now live on spotwitter.com, auth your accounts and use easily.
+
 Shows your currently playing music on Spotify on your Twitter bio.
 
   - Language: PHP
